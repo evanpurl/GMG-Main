@@ -1,0 +1,12 @@
+{
+    "commandcomments": "Do not put a space after the command, all commands must be one word.",
+    "groupadd": "!groupadd",
+    "groupclear": "!groupclear",
+    "battlecommand": "!battle",
+    "secondaryattackmultiplier": 1.125,
+    "critchance": 4,
+    "critcomment": "Higher the number, the more damage a crit will do. base damage * multiplier.",
+    "healthword": "Hull Health:",
+    "shieldword": "Shield Health:"
+
+}

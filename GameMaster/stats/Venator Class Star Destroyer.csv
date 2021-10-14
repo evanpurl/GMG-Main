@@ -1,0 +1,25 @@
+Venator-Class
+
+Class: Cruiser
+Cost: 0
+"Armament: 0, weapontype, 0, anothertypeifthereisone"
+Length: 0 Meters
+Shields: Shield Type
+Hull: Hull Type
+Manufacturer: Manuname
+Crew: 0
+Cargo Capacity: 0 metric tons
+Hyperdrive Rating: Hyperdrive
+Max Acceleration: 0 g
+MGLT: 0 MGLT
+Passengers: 0
+Hangar: 0
+Lore: Some long paragraph
+"Hull Health: 60,000"
+"Shield Health: 70,000"
+Shield Regen: 75
+"Shield Damage: 9,500"
+"Hull Damage: 10,000"
+Grav Well: 0 
+Boarding Shuttles: 1
+Damage Resistance: 1.30

@@ -1,0 +1,6 @@
+{
+	"token": "ODk3MjU2ODM0Njc3NzM5NTYw.YWTBiw.2EY-eHUmTmCmb0bJfSbldmsBOxI",
+    "w1url": "https://discord.com/api/webhooks/896847151274025042/NThGzKpS9PklODyj8GUndBBXsy9BvhnRZTSWDUqXVoM1-X2M1hlcq4soHX_ph_EW0Q-j", 
+    "w2url": "https://discord.com/api/webhooks/897277568988885024/jImSul_cZdP-DuNDk9xA2ajgXdpjVXt6ILPGFOzAOYTP_2FtEi09Q2witZ14-L0LphO_",
+    "comment": "token is the bot token, w1url is Player 1's webhook, w2url is Player 2's webhook."
+}

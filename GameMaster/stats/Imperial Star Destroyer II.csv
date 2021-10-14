@@ -1,0 +1,25 @@
+"Imperial Star Destroyer II, "
+
+Class: Battleship
+Cost: 0
+"Armament: 0, weapontype, 0, anothertypeifthereisone"
+Length: 0 Meters
+Shields: Shield Type
+Hull: Hull Type
+Manufacturer: Manuname
+Crew: 0
+Cargo Capacity: 0 metric tons
+Hyperdrive Rating: Hyperdrive
+Max Acceleration: 0 g
+MGLT: 0 MGLT
+Passengers: 0
+Hangar: 0
+Lore: Some long paragraph
+"Hull Health: 200,000"
+"Shield Health: 400,000"
+Shield Regen: 60
+"Shield Damage: 60,000"
+"Hull Damage: 90,000"
+Grav Well: 0
+Boarding Shuttles: 1
+Damage Resistance: 1
